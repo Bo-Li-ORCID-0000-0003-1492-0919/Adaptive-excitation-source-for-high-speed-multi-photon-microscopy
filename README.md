@@ -1,6 +1,6 @@
 This is a computer code (in MATLAB environment) to control hardwares such as arbitrary wavefrom generator.
 
-Part 1. MATLAB code for controlling of AWG 
+Part 1. MATLAB code for controlling of AWG, NI PXI-5412
 
 1.	Setup the hardware of the arbitrary waveform generator. 
 2.	Install NI-FGEN 18.1 or higher version Driver from National Instruments. For example, http://www.ni.com/download/ni-fgen-18.1/7587/en/  Durin this process, NI MAX (Measurement & Automation Explorer) will be installed as well. If not, one can download it from National Instruments.
