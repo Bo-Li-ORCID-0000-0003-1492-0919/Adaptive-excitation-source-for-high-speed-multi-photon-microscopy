@@ -1,5 +1,11 @@
 This is a computer code (in MATLAB environment) to control hardwares such as arbitrary wavefrom generator.
 
+Requirements
+MATLAB 2017a or higher version.
+Multiple drivers, which are given in Usage session.
+
+Usage
+
 Part 1. MATLAB code for controlling of AWG, NI PXI-5412
 
 1.	Setup the hardware of the arbitrary waveform generator. 
@@ -14,3 +20,5 @@ Part 2. MATLAB code for controlling of the DAQ, ATS9371
 
 The SDK and instruction guide for C/C++, C#, MATLAB, Python and LabVIEW have been provided by Alazar Tech. The MATLAB SDK has been attached as "AlazarDAQ.zip".
 
+To be continued...
+That are more under-developed device-controlling code. Feel free to push me to update the documentation of your favorite function! My email is: liboresearch@gmail.com
