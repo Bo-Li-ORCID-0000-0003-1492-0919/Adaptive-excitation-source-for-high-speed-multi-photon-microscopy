@@ -9,3 +9,8 @@ Part 1. MATLAB code for controlling of AWG
 5.	Use MATLAB to open the example code “PXI_5412_TTLsignalGeneration.m”. Change the resource ID, which is defined as 'PXI2Slot4' in the example code.
 6.	Test the example code. 1) Connect the AWG output port to an oscilloscope. 2) Run the example code with revised resource ID. If the code works, AWG will generate a TTL output. This can be measured with the osciloscope. 3) Change the repetition rate by revising the sentence from “RepRate = 4;” to “RepRate = 2;” or other values. Run the code again and measure the output waveform using the oscilloscope.
 7.	After testing the example code, one need to turn off the AWG code. Uncomment the code in the session of “Turn off the AWG”, and run the code again.
+
+Part 2. MATLAB code for controlling of the DAQ, ATS9371
+
+The SDK and instruction guide for C/C++, C#, MATLAB, Python and LabVIEW have been provided by Alazar Tech. The MATLAB SDK has been attached as "AlazarDAQ.zip".
+
