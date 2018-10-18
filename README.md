@@ -4,7 +4,7 @@ This is a computer code (in MATLAB environment) to control hardwares such as arb
 Requirements
 
 MATLAB 2017a or higher version.
-Multiple drivers, which are given in Usage session, need to be installed.
+Multiple drivers, which are given in the Usage session, need to be installed.
 Operation system that code has been tested on: Windows 10
 
 
